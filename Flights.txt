@@ -1,0 +1,18 @@
+Detriot,Austin,150
+New York,Detriot,110
+Austin,Detriot,165
+Boston,New York,200
+Boston,Austin,145
+Austin,New York,190
+San Francisco,Austin,130
+San Francisco,New York,210
+New York,Austin,170
+Detriot,San Francisco,120
+New York,San Francisco,205
+Boston,San Francisco,195
+Austin,Boston,150
+San Francisco,Detriot,170
+Detriot,New York,145
+New York,Boston,120
+Boston,Detriot,185
+Detriot,Boston,180
